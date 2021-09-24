@@ -1,6 +1,6 @@
 add_x <- function(X) {
  
-  x <- X + 1
+  x <- X + 2
   
   return(x)
   
